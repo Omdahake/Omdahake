@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Omdahake
+- 👋 Hi, 
 - 👀 I’m intrested in coding
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me omdahake14@gmail.com
