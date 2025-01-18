@@ -1,6 +1,6 @@
 - 👋 Hi, 
-- 👀 I’m intrested in coding
-- 🌱 I’m currently learning DSA
+- 👀 I’m intrested in solving problems
+- 🌱 I’m currently learning at pucsd
 - 📫 How to reach me omdahake14@gmail.com
 
 <!---
